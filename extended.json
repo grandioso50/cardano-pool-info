@@ -1,0 +1,18 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "location": "Tokyo, Japan",
+        "social": {
+            "twitter_handle": "hakunaCardanoS1",
+            "discord_handle": "hakuna#3943",
+            "github_handle": "query-me"
+        },
+        "about": {
+            "me": "Freelance engineer specialized in front and server-side development. Developer of foreign-currency chart analysis tool from statistical approach.",
+            "server": "Cloud Server. 8 core CPU 16GB memory. 10GB up/down"
+        }
+    },
+    "my-pool-ids": {
+        "0": "78149b89d9aa69657ff326a82a0949e5c61b44d4d25b87f8ea6c9a0a"
+    }
+}
