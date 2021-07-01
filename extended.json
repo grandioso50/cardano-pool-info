@@ -1,6 +1,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/query-me/cardano-pool-info/master/icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/query-me/cardano-pool-info/master/logo.png",
         "location": "Tokyo, Japan",
         "social": {
             "twitter_handle": "hakunaCardanoS1",
@@ -8,8 +10,8 @@
             "github_handle": "query-me"
         },
         "about": {
-            "me": "Freelance engineer specialized in front and server-side development. Developer of foreign-currency chart analysis tool from statistical approach.",
-            "server": "Cloud Server. 8 core CPU 16GB memory. 10GB up/down"
+            "me": "Freelance engineer specialized in front and server-side development. Developer of foreign-currency chart analysis tool from statistical approach.　大手予約サイトのインフラ設計構築や関連ビッグデータの収集分析システムの開発に従事してきました。現在はフリーエンジニアとして活動する傍ら、投資家のためのテクニカルチャート分析ツールの開発を並行して進めております。幅広いノウハウを活かしてステーキングプール運営に努めておりますので、委任は是非KURISをご検討ください：）",
+            "server": "AWS instances. 8 vCPU 16GiB RAM. 10 Gbps up/down. Constant backup. Highly secure and failsafe architecture."
         }
     },
     "my-pool-ids": {
