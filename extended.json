@@ -11,7 +11,7 @@
         },
         "about": {
             "me": "Freelance engineer specialized in front and server-side development. Developer of foreign-currency chart analysis tool from statistical approach.　大手予約サイトのインフラ設計構築や関連ビッグデータの収集分析システムの開発に従事してきました。現在はフリーエンジニアとして活動する傍ら、投資家のためのテクニカルチャート分析ツールの開発を並行して進めております。幅広いノウハウを活かしてステーキングプール運営に努めておりますので、委任は是非KURISをご検討ください：）",
-            "server": "AWS instances. 8 vCPU 16GiB RAM. 10 Gbps up/down. Constant backup. Highly secure and failsafe architecture."
+            "server": "AWS instances. 8 vCPU 16GiB RAM. 10 Gbps up/down. Constant backup. Highly secure and high availability with failover architecture."
         }
     },
     "my-pool-ids": {
