@@ -1,0 +1,8 @@
+{
+"name":"hakuna#3943",
+"ticker":"KURIS",
+"discordId":"874650510894964826",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/query-me/cardano-pool-info/master/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/query-me/cardano-pool-info/master/sjg-validation.json"
+}

@@ -1,6 +1,7 @@
 {
-"name": "KMakise",
-"description": "lucky pool",
+"name": "KURIS JAPAN",
+"description": "Fixed fee goes to Florence to support single mom.|エンジニアが運営しているプールです。毎年NPOに寄付していて、今年はフローレンスです。寄付を通じ一緒にカルダノをもりあげられたらうれしいです!",
 "ticker": "KURIS",
-"homepage": "https://mobile.twitter.com/hakunaCardanoS1"
+"homepage": "https://kuris.org/",
+"extended":"https://raw.githubusercontent.com/query-me/cardano-pool-info/master/extended.json"
 }
